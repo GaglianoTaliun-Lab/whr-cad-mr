@@ -1,0 +1,4 @@
+chr,SNP,effect_allele.exposure,beta.exposure,se.exposure,p.exposure,A1,effect_allele.outcome,p_GWAS,OR.outcome,se.OR.outcome,not_adjusted.beta.outcome,beta.outcome,se.outcome,p.outcome,id.exposure,exposure,id.outcome,outcome,mr_keep
+3,rs17451107,T,0.03,0.005,1.42E-08,C,T,0.5769,0.992,0.01448,-0.008032172,0.008032172,0.014391869,0.5769,EUR_WHRadjBMI,WHRadjBMI,UKB_CAD,CAD,TRUE
+20,rs224333,G,0.036,0.005,9.00E-12,A,G,0.6725,1.006,0.01465,0.005982072,-0.005982072,0.014358668,0.6725,EUR_WHRadjBMI,WHRadjBMI,UKB_CAD,CAD,TRUE
+6,rs1936805,T,0.031,0.005,3.08E-10,C,T,0.04588,0.9723,0.01408,-0.02809088,0.02809088,0.014279426,0.04588,EUR_WHRadjBMI,WHRadjBMI,UKB_CAD,CAD,TRUE
